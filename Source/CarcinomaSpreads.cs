@@ -9,7 +9,7 @@
 ///     resolving the problem.
 /// </summary>
 /// <license>
-///   This patch program is licensed under the LGPL v3.
+///   This patch assembly library is licensed under the LGPL v3.
 ///   You can find the text of the license at:
 ///   https://www.gnu.org/licenses/lgpl-3.0.en.html
 ///   Copyright 2019 LWM
